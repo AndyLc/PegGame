@@ -1,0 +1,1 @@
+peg,7,15,8peg.png,13,18,10Lantern.png,5,5,10
